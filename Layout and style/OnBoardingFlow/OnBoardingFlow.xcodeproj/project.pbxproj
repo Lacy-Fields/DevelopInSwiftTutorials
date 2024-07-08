@@ -11,6 +11,7 @@
 		574BC74D2C3C863500C8511A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574BC74C2C3C863500C8511A /* ContentView.swift */; };
 		574BC74F2C3C863700C8511A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 574BC74E2C3C863700C8511A /* Assets.xcassets */; };
 		574BC7522C3C863700C8511A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 574BC7512C3C863700C8511A /* Preview Assets.xcassets */; };
+		574BC7592C3C877500C8511A /* WelcomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574BC7582C3C877500C8511A /* WelcomePage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		574BC74C2C3C863500C8511A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		574BC74E2C3C863700C8511A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		574BC7512C3C863700C8511A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		574BC7582C3C877500C8511A /* WelcomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomePage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				574BC74A2C3C863500C8511A /* OnBoardingFlowApp.swift */,
 				574BC74C2C3C863500C8511A /* ContentView.swift */,
+				574BC7582C3C877500C8511A /* WelcomePage.swift */,
 				574BC74E2C3C863700C8511A /* Assets.xcassets */,
 				574BC7502C3C863700C8511A /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				574BC7592C3C877500C8511A /* WelcomePage.swift in Sources */,
 				574BC74D2C3C863500C8511A /* ContentView.swift in Sources */,
 				574BC74B2C3C863500C8511A /* OnBoardingFlowApp.swift in Sources */,
 			);
