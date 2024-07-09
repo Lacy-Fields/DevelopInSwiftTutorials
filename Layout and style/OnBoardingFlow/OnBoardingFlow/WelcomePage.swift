@@ -16,21 +16,23 @@ struct WelcomePage: View {
                 .foregroundStyle(.tint)
                 
                 Image(systemName: "figure.2.and.child.holdinghands")
+                    .font(.system(size: 70))
+                    .foregroundStyle(.white)
             }
             
             Text("Welcome to MyApp")
-                .font(.title) // type inference
+                .font(.title) // Type Inference
                 .fontWeight(.semibold)
                 .padding(.top)
-                .border(.black, width: 1.5)
+//                .border(.black, width: 1.5)
             
             Text("Description Text")
                 .font(.title2)
-                .border(.black, width: 1.5)
+//                .border(.black, width: 1.5)
         }
-        .border(.orange, width: 1.5)
+//        .border(.orange, width: 1.5)
         .padding()
-        .border(.purple, width: 1.5)
+//        .border(.purple, width: 1.5)
     }
 }
 

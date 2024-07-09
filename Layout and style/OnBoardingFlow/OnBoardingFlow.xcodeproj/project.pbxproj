@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5712AA4F2C3D6CEB00E44452 /* FeaturesPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5712AA4E2C3D6CEB00E44452 /* FeaturesPage.swift */; };
 		574BC74B2C3C863500C8511A /* OnBoardingFlowApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574BC74A2C3C863500C8511A /* OnBoardingFlowApp.swift */; };
 		574BC74D2C3C863500C8511A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574BC74C2C3C863500C8511A /* ContentView.swift */; };
 		574BC74F2C3C863700C8511A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 574BC74E2C3C863700C8511A /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5712AA4E2C3D6CEB00E44452 /* FeaturesPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturesPage.swift; sourceTree = "<group>"; };
 		574BC7472C3C863500C8511A /* OnBoardingFlow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnBoardingFlow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		574BC74A2C3C863500C8511A /* OnBoardingFlowApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingFlowApp.swift; sourceTree = "<group>"; };
 		574BC74C2C3C863500C8511A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				574BC74A2C3C863500C8511A /* OnBoardingFlowApp.swift */,
 				574BC74C2C3C863500C8511A /* ContentView.swift */,
 				574BC7582C3C877500C8511A /* WelcomePage.swift */,
+				5712AA4E2C3D6CEB00E44452 /* FeaturesPage.swift */,
 				574BC74E2C3C863700C8511A /* Assets.xcassets */,
 				574BC7502C3C863700C8511A /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				574BC7592C3C877500C8511A /* WelcomePage.swift in Sources */,
+				5712AA4F2C3D6CEB00E44452 /* FeaturesPage.swift in Sources */,
 				574BC74D2C3C863500C8511A /* ContentView.swift in Sources */,
 				574BC74B2C3C863500C8511A /* OnBoardingFlowApp.swift in Sources */,
 			);
